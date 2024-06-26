@@ -1,0 +1,22 @@
+﻿ID,Gender,Department,Specialization,Study,Interests
+john001,male,IT,networking,computer science,playing sports such as tennis and football
+jack002,male,IT,data science,computer science,networking
+anna003,female,IT,data science,information systems,supporting women in the workplace and scientific reading
+johny004,male,IT,networking,telecomunication,sports such as swimming and climbing
+ben005,male,marketing,advertising campaigns,marketing,relaxing to pop music and networking 
+julia006,female,marketing,brand management,economics,"hiking, taking long walks and gardening"
+kira007,female,marketing,digital marketing,marketing,mounting climbing and gardening
+leo008,male,marketing,advertising campaigns,business,playing sports such as tennis and football and listening to music
+leon009,male,sales,strategy,business,networking in company events and mentoring young professionals
+sophie010,female,sales,consulting,economics,scientific reading and mentoring young professionals
+clare011,female,sales,consulting,business,reading and playing sports
+romeo012,male,sales,managing sales pipeline,finance,mentoring and playing sports
+bora013,female,hr,recruiting,psychology,mentoring and supporting women in the workplace
+gisele014,female,hr,training & development,economics,mentoring and supporting women in the workplace
+denis015,male,hr,training & development,psychology,mentoring and sports such as swimming and climbing
+rovis016,female,hr,recruiting,economics,reading novels and tennis
+donald017,male,finance,corporate finance,finance,swimming and listening to music
+anne018,female,finance,investments,finance,women in workplace
+julian019,male,finance,mba,finance,sports such as tennis and long walks
+maria020,female,finance,mba,accounting,networking and mentoring
+ema021,female,finance,mba,accounting,"networking, scientific reading and mentoring"
